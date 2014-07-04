@@ -1,0 +1,21 @@
+{
+  "name": "mmCompareProperties",
+  "version": "0.0.1",
+  "description": "Comparing property files and search missing and redundant keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikolaj Muller",
+  "license": "ISC",
+  "files" : [
+   "index.js"
+  ],
+  "bin": {
+	"mmCompareProperties" : "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmmuller/mmCompareProperties.git"
+  }
+}
